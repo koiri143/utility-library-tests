@@ -87,7 +87,7 @@ The project includes a GitHub Actions workflow (`.github/workflows/ci.yml`) that
 
 Coverage reports are sent to [Coveralls](https://coveralls.io/) automatically on main branch pushes. The Coveralls badge below shows current coverage:
 
-[![Coverage Status](https://coveralls.io/repos/github/yourusername/utility-library-tests/badge.svg?branch=main)](https://coveralls.io/github/yourusername/utility-library-tests?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/koiri143/utility-library-tests/badge.svg?branch=main)](https://coveralls.io/github/koiri143/utility-library-tests?branch=main)
 
 ## Project Structure
 
